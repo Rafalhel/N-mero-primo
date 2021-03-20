@@ -15,4 +15,6 @@ else:
             x += i + " "
     print(x)
     print("É primo")
-    
+
+
+
